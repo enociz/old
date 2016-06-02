@@ -67,6 +67,16 @@ layout: post
 
 After the extinction of the dinosaurs, the rise of humans began. In relation to Darwin's theory of evolution we evolved from chimps **4 million** years ago as **AUSTRALOPITHECUS** then turned into **HOMO HABILIS 2.2 million years ago**, then **HOMO ERECTUS (ERGASTER) 1.8 million years ago** when we became *bipedal*, **NEANDERTHAL around 600,000 years ago** and eventually **HOMO SAPIENS 250,000 years ago**. Each of our ancestors carried certain traits but as they evolved into humans they got taller, their skeletal and body structure changed and we had larger brains.
 
+### Threshold card
+
+```
+Ingredients - Powerful brains + precise and versatile symbolic language.
+
+Goldilocks Conditions - interactions between individuals and communities.
+
+New complexity - humans + the use of collective learning 
+```
+
 ## 3) Human Migration [Map analysis and questions]
 
 ### Out of Africa
@@ -77,17 +87,41 @@ After the extinction of the dinosaurs, the rise of humans began. In relation to 
 
 ### Where and when did the first agrarian civilisations start?
 
+Around 11,000 years ago in the Fertile Crescent (Middle East) nomadic groups came together to begin a new era where they would change their nomadic ways to a more sedentary lifestyle. People would interact with each other which made them agree to work together as a group to gain more resources. After time these groups increased in populations to create the first civilisations. Characteristics that made a civilisations were: cities, monumental architecture, governments and social hierarchies, farming, tax systems, armies and writing. These civilisations developed a new form of gaining resources called farming where instead of physically killing an animal and looking for plants, they would domesticate and grow their own using new technology. After time, the Fertile Crescents resources started to become more scarce, this caused people to mice out of this region and started human migration. People migrated east or west due to similar climate and the same agriculture. After more civilisations were established people created new foundations of society for example religion and new technology.
+
+**Plants first domesticated**: Lentils and Barley
+
+**Animals first domesticated**: cows, dogs, sheep, goat, horses, oxen etc.
+
+**First known big city**: Uruk, located in Mesopotamia (Fertile Crescent)
+
+**Where did humans first start**: Africa then moved out around 60,000 years ago
+
+#### Threshold card
+
+```
+Ingredients - Knowledge about the environment + Increasingly dense human populations 
+
+Goldilocks Conditions - Increasing competition for resources + Warmer climates after the last ice age
+
+New complexity - Domestication of plants and animals + development of villages, cities and agrarian civilisations
+```
+
 ### How do they function/Key features
 
 ## 5) How did people go from being hunter gatherers to Agrarian Civilisations?
+
+Our ancestors originally lived as hunter-gatherers in small groups and were nomadic. These people would soon go on to take the next step in the course of Big History - the development and rise of Agriculture.
 
 #### Foraging
 
 ## Key Terms
 
 - **Complexity** - the quality or condition of something that has diverse ingredients in precise arrangement one after the other, to create new emergent properties that weren't there before.
-
 - **Simplicity** - the quality or condition of how easily understood and uncomplicated something is.
+- **Collective learning** - Unlike other mammals humans are able to perform collective learning, a process where when knowledge and information is passed down through generations and improved, tinkered with and perfected to make it better. An example of collective learning are the tools are ancestors used like an axe, they improved on it so it could benefit them more.
+- **Foraging**: Once people could communicate with each other it meant they could share ideas and knowledge to create new things like tools for example. From 200,000-11,000 years ago people used a form of finding resources and food called 'Foraging' which solely relied on hunting and gathering food from nature to survive. The methods used for hunting animals are for example chasing them, though humans could not run faster, they could run for longer so they used this to their advantage until they became more sedentary when agriculture developed.
+- **Civilisations**: A civilisation is a complex society, characterised by urban development, social stratification and symbolic communication (i.e. writing).
 
 ## Acknowledgements
 
