@@ -87,8 +87,6 @@ New complexity - humans + the use of collective learning
 
 ## 3) Human Migration [Map analysis and questions]
 
-### Out of Africa
-
 ### Collective Learning
 - The process of developing and improving techniques and ideas through the involvement of more than one person.
 - Farming speeds up the pace of this by giving people more free time
@@ -174,7 +172,9 @@ other predators; and hunting.
 - A “**state**” is a city, or several cities, and the surrounding villages and farms. A state could include hundreds of thousands of **people**, even millions. There were **levels of power and wealth**. A few people called “**elites**” were on top. Elites typically made up no more than one-tenth of the population. Yet, they had more wealth and power than the bottom nine-tenths combined. States were **ruled** by these elites. They controlled the **military**. And they might use force to keep order and collect **taxes**.
 
 ## Key Dates
+
 ### Out of Africa
+
 - **200,000 years ago**: The first homo sapiens are born
 - **70,000 years ago**: earth entrers the coldest, direst period
 - **60,000 years ago**: First humans leave Africa
@@ -193,6 +193,7 @@ other predators; and hunting.
 - **250,000**: Homo Sapien
 
 ### World Zone Settlements (Afro-Eurasia, Pacific Islands, The Americas, Australasia)
+
 - **60-70KYA**: Asia
 - **50KYA**: Australia
 - **43KYA**: Europe
