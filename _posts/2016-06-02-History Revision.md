@@ -2,7 +2,6 @@
 published: true
 layout: post
 ---
-# History Revision
 
 #### Brought to you by your friend at Yink Co.
 
@@ -12,11 +11,11 @@ layout: post
 - What was our purpose?
 - Every organism is a self or being
 - To be one of these, you need to self-generate and self-maintain
-- **Self-generation** the making of a self through cell division or taking te part from a new born to old age. Key players are proteins, which folds up into compplex shapes and do two major things: interact with other proteins and to serve as enzymes that allow chemical reactions inside the cell to take place.
+- **Self-generation** the making of a self through cell division or taking te part from a new born to old age. Key players are proteins, which fold up into complex shapes and do two major things: interact with other proteins and to serve as enzymes that allow chemical reactions inside the cell to take place.
 - **Self-maintenance** obtaining the molecules and energy to metabolise (via photosynthesis or ingesting things made as a results of photosynthesis). It also involves self-protection and avoiding hazards such as predators and/or disease.
 - Every organism is instructed via the genes that make up the proteins
 - Every organism can evolve through "mistakes" or mutation
-- Every organism has purpose and is directed by a goal, whether to survive and thrive, or to ace a History exam. Nonlifes such as mountains don't have a purpose and just are
+- Every organism has purpose and is directed by a goal, whether to survive and thrive, or to ace a History exam. Nonlifes, such as mountains, don't have a purpose and just are
 
 #### How Life Started
 
@@ -65,11 +64,9 @@ layout: post
 
 ### Threshold card
 
-```
-Ingredients and Conditions – Complex chemical compunds, right amount of energy, liquid qater
+**Ingredients and Conditions** - Complex chemical compounds, right amount of energy, liquid water
 
-New complexity – New organisms with ability to metabolise (survive), homeostasify (adjust), reproduce (thrive), and evolve (adapt).
-```
+**New complexity** – New organisms with ability to metabolise (survive), homeostasify (adjust), reproduce (thrive), and evolve (adapt).
 
 ## 2) Early Humans
 
@@ -77,13 +74,11 @@ After the extinction of the dinosaurs, the rise of humans began. In relation to 
 
 ### Threshold card
 
-```
-Ingredients - Powerful brains + precise and versatile symbolic language.
+**Ingredients** - Powerful brains + precise and versatile symbolic language.
 
-Goldilocks Conditions - interactions between individuals and communities.
+**Goldilocks Conditions** - interactions between individuals and communities.
 
-New complexity - humans + the use of collective learning 
-```
+**New complexity** - humans + the use of collective learning 
 
 ## 3) Human Migration [Map analysis and questions]
 
@@ -100,14 +95,14 @@ New complexity - humans + the use of collective learning
 - People would interact with each other which made them agree to work together as a group to gain more resources.
 - After time these groups increased in populations to create the first civilisations.
 - These civilisations developed a new form of gaining resources called farming where instead of physically killing an animal and looking for plants, they would domesticate and grow their own using new technology.
-- After time, the Fertile Crescents resources started to become more scarce, this caused people to mice out of this region and started human migration.
+- After time, the Fertile Crescents resources started to become more scarce, this caused people to move out of this region and started human migration.
 - People migrated east or west due to similar climate and the same agriculture. After more civilisations were established people created new foundations of society for example religion and new technology.
 
 - The first agrarian civilizations developed in about **3200 BCE**. These early farming societies started in three areas: **Mesopotamia**; in **Egypt and Nubia (now northern Sudan)**; and in the **Indus Valley**. More appeared in **China** a bit later and in **Central America** and along the **Andes Mountains** of South America at about 2000 — 1000 BCE. 
 
 **Plants first domesticated**: Lentils and Barley
 
-**Animals first domesticated**: cows, dogs, sheep, goat, horses, oxen etc.
+**Animals first domesticated**: cows, pig, sheep, goat, dogs, horses, oxen etc.
 
 **First known big city**: Uruk, located in Mesopotamia (Fertile Crescent)
 
@@ -115,13 +110,11 @@ New complexity - humans + the use of collective learning
 
 #### Threshold card
 
-```
-Ingredients - Knowledge about the environment + Increasingly dense human populations 
+**Ingredients** - Knowledge about the environment + Increasingly dense human populations 
 
-Goldilocks Conditions - Increasing competition for resources + Warmer climates after the last ice age
+**Goldilocks Conditions** - Increasing competition for resources + Warmer climates after the last ice age
 
-New complexity - Domestication of plants and animals + development of villages, cities and agrarian civilisations
-```
+**New complexity** - Domestication of plants and animals + development of villages, cities and agrarian civilisations
 
 ### How do they function/Key features
 Characteristics that made a civilisations were:
@@ -178,7 +171,7 @@ other predators; and hunting.
 - **200,000 years ago**: The first homo sapiens are born
 - **70,000 years ago**: earth entrers the coldest, direst period
 - **60,000 years ago**: First humans leave Africa
-- **50,000 years ago**: They reach Australia, second group crosses the red sea
+- **50,000 years ago**: They reach Australia, second group crosses the Red Sea
 - **40,000 years ago**: Humans enter Europe through the southeast. Neanderthals go extinct shortly after
 - **35,000 years ago**: They have populated the middle east and central asia
 - **25,000 years ago**: Earth enters the last glacial maximum of the ice age
