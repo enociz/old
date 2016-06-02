@@ -1,6 +1,3 @@
----
-published: false
----
 # History Revision
 
 #### Brought to you by your friend at Yink Co.
