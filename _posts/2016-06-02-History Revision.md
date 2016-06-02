@@ -90,12 +90,22 @@ New complexity - humans + the use of collective learning
 ### Out of Africa
 
 ### Collective Learning
+- The process of developing and improving techniques and ideas through the involvement of more than one person.
+- Farming speeds up the pace of this by giving people more free time
+- Networks both in the civilisation, and through trade allowed spread and improvement of ideas and techniques
 
 ## 4) Guns, Germs, and Steel
 
 ### Where and when did the first agrarian civilisations start?
 
-Around 11,000 years ago in the Fertile Crescent (Middle East) nomadic groups came together to begin a new era where they would change their nomadic ways to a more sedentary lifestyle. People would interact with each other which made them agree to work together as a group to gain more resources. After time these groups increased in populations to create the first civilisations. Characteristics that made a civilisations were: cities, monumental architecture, governments and social hierarchies, farming, tax systems, armies and writing. These civilisations developed a new form of gaining resources called farming where instead of physically killing an animal and looking for plants, they would domesticate and grow their own using new technology. After time, the Fertile Crescents resources started to become more scarce, this caused people to mice out of this region and started human migration. People migrated east or west due to similar climate and the same agriculture. After more civilisations were established people created new foundations of society for example religion and new technology.
+- Around 11,000 years ago in the Fertile Crescent (Middle East) nomadic groups came together to begin a new era where they would change their nomadic ways to a more sedentary lifestyle.
+- People would interact with each other which made them agree to work together as a group to gain more resources.
+- After time these groups increased in populations to create the first civilisations.
+- These civilisations developed a new form of gaining resources called farming where instead of physically killing an animal and looking for plants, they would domesticate and grow their own using new technology.
+- After time, the Fertile Crescents resources started to become more scarce, this caused people to mice out of this region and started human migration.
+- People migrated east or west due to similar climate and the same agriculture. After more civilisations were established people created new foundations of society for example religion and new technology.
+
+- The first agrarian civilizations developed in about **3200 BCE**. These early farming societies started in three areas: **Mesopotamia**; in **Egypt and Nubia (now northern Sudan)**; and in the **Indus Valley**. More appeared in **China** a bit later and in **Central America** and along the **Andes Mountains** of South America at about 2000 — 1000 BCE. 
 
 **Plants first domesticated**: Lentils and Barley
 
@@ -116,18 +126,38 @@ New complexity - Domestication of plants and animals + development of villages, 
 ```
 
 ### How do they function/Key features
+Characteristics that made a civilisations were:
+- agrarian surplus
+- more trade
+- cities
+- monumental architecture
+- governments and social hierarchies (esp. religious & a central ruler; division of jobs, divisions based on birth, wealth and job)
+- farming (esp. Agrarian, which relied on a water source as well)
+- tax systems
+- armies/wars
+- writing
+
+### Jared Diamond's theory
+
+Although the tribes in Papau New Guinea can adapt and do everything that everone else can, they are not as modern as Americans. This is a direct result of geographical unluckiness.
+
+#### Geographical Luck
+
+Different zones have different characteristics that effected its success. Eg: the big 4 (cows, pigs, sheep, goats) were all from Middle East.
 
 ## 5) How did people go from being hunter gatherers to Agrarian Civilisations?
 
 Our ancestors originally lived as hunter-gatherers in small groups and were nomadic. These people would soon go on to take the next step in the course of Big History - the development and rise of Agriculture.
 
-#### Foraging
+### Foraging
 
 - **Foraging** means relying on food provided by nature through the gathering of plants and small animals, birds, and insects; scavenging animals killed by other predators; and hunting.
 - Our verbal and non-verbal communication skills aided collective learning in improving processes (may have lead to development of agriculture
 _ THe use of fire, beginning a distinguishing feature of *Homo Sapiens* and cooking with it provided nutrition, look less energy to chew, allowed for smaller intestines, and thus helped brain development. Eating around a fire probably helped communication, empathy, and collective learning, to develop.
 - Probably scavenged at first, but used weapons etc. to get better and endure longer
 - Development of social order through hunter-gatherer societies which lead to civilisations
+
+***Also refer to Q4***
 
 
 ## Key Terms
@@ -140,6 +170,38 @@ _ THe use of fire, beginning a distinguishing feature of *Homo Sapiens* and cook
 - **Foraging**: relying on food provided by nature through the gathering
 of plants and small animals, birds, and insects; scavenging animals killed by
 other predators; and hunting. 
+- A “**city**” contains tens of thousands of people. It’s larger than a **town** which contains only thousands of people. A **village** is made of just hundreds. In cities, people had **specific jobs**. They weren’t all farmers. The food they ate was grown by farmers nearby.
+- A “**state**” is a city, or several cities, and the surrounding villages and farms. A state could include hundreds of thousands of **people**, even millions. There were **levels of power and wealth**. A few people called “**elites**” were on top. Elites typically made up no more than one-tenth of the population. Yet, they had more wealth and power than the bottom nine-tenths combined. States were **ruled** by these elites. They controlled the **military**. And they might use force to keep order and collect **taxes**.
+
+## Key Dates
+### Out of Africa
+- **200,000 years ago**: The first homo sapiens are born
+- **70,000 years ago**: earth entrers the coldest, direst period
+- **60,000 years ago**: First humans leave Africa
+- **50,000 years ago**: They reach Australia, second group crosses the red sea
+- **40,000 years ago**: Humans enter Europe through the southeast. Neanderthals go extinct shortly after
+- **35,000 years ago**: They have populated the middle east and central asia
+- **25,000 years ago**: Earth enters the last glacial maximum of the ice age
+- **15,000 years ago**: First humans cross the strait into the Americas
+- **12,000 years ago**: The agri- cultural revolution begins
+
+### Ancestors
+- **4m**: Australopithecus
+- **2.2m**: Homo Habillis
+- **1.8m**: Homo Erectus
+- **600,000**: Neanderthals
+- **250,000**: Homo Sapien
+
+### World Zone Settlements (Afro-Eurasia, Pacific Islands, The Americas, Australasia)
+- **60-70KYA**: Asia
+- **50KYA**: Australia
+- **43KYA**: Europe
+- **35KYA**: Japan
+- **15KYA**: North America
+- **14KYA**: South America
+- **2KYA**: Madagascar
+- **1250AD**: New Zealand
+
 
 ## Acknowledgements
 
