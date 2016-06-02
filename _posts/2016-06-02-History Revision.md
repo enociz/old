@@ -63,6 +63,14 @@ layout: post
 
 - **Natural selection** - This is 'survival of the fittest' when a certain species of animal naturally goes through genetic mutation to obtain new traits to be better suited to their environment, survive for longer and reproduce more. 
 
+### Threshold card
+
+```
+Ingredients and Conditions – Complex chemical compunds, right amount of energy, liquid qater
+
+New complexity – New organisms with ability to metabolise (survive), homeostasify (adjust), reproduce (thrive), and evolve (adapt).
+```
+
 ## 2) Early Humans
 
 After the extinction of the dinosaurs, the rise of humans began. In relation to Darwin's theory of evolution we evolved from chimps **4 million** years ago as **AUSTRALOPITHECUS** then turned into **HOMO HABILIS 2.2 million years ago**, then **HOMO ERECTUS (ERGASTER) 1.8 million years ago** when we became *bipedal*, **NEANDERTHAL around 600,000 years ago** and eventually **HOMO SAPIENS 250,000 years ago**. Each of our ancestors carried certain traits but as they evolved into humans they got taller, their skeletal and body structure changed and we had larger brains.
