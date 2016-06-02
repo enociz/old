@@ -92,7 +92,7 @@ New complexity - humans + the use of collective learning
 ### Collective Learning
 - The process of developing and improving techniques and ideas through the involvement of more than one person.
 - Farming speeds up the pace of this by giving people more free time
-- Networks both in the civilisation, and through trade allowed spread and improvement of ideas and techniques
+- Networks both in the civilisation, and through trade, cross-marrying, and entertaining passing travellers, allowed spread and improvement of ideas and techniques
 
 ## 4) Guns, Germs, and Steel
 
@@ -207,4 +207,4 @@ other predators; and hunting.
 
 Today we stand in footsteps millennia old. May we acknowledge the traditional owners whose cultures and customs have nurtured, and continue to nurture, this land, since men and women awoke from the great dream. We honour the presence of these ancestors who reside in the imagination of this land and whose irrepressible spirituality flows through all creation.
 
-**Contributors**: John Lock, Allen Joseph, Enoch Appathurai, Sean Bastians
+**Contributors**: John Lock, Allen Joseph, Enoch Appathurai, Sean Bastians, Eric Wang
