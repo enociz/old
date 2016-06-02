@@ -29,6 +29,23 @@ published: false
 
 ### Darwin
 
+#### Theory
+
+- A species is a population of organisms that interbreeds and has fertile offspring.
+- Living organisms have descended with modifications from species that lived before them.
+- Natural selection explains how this evolution has happened:
+  - More organisms are produced than can survive because of limited resources.
+  - Organisms struggle for the necessities of life; there is competition for resources.
+  - Individuals within a population vary in their traits; some of these traits are heritable -- passed on to offspring.
+  - Some variants are better adapted to survive and reproduce under local conditions than others.
+  - Better-adapted individuals (the "fit enough") are more likely to survive and reproduce, thereby passing on copies of their genes to the next generation.
+  - Species whose individuals are best adapted survive; others become extinct.
+
+#### Religion and Evolution (from Prof. John Haught)
+- **Conflict**: views are in total conflict
+- **Contrast**: the evolution and religion answer totally different questions, so they can’t be in conflict
+- **Convergence**: truth in both views, so the two must ultimately be truthful. 
+
 
 ## 2 
 
@@ -37,3 +54,7 @@ published: false
 ## 4
 
 ## 5
+
+## Key Terms
+
+## Key Dates
