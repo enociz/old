@@ -123,13 +123,23 @@ Our ancestors originally lived as hunter-gatherers in small groups and were noma
 
 #### Foraging
 
+- **Foraging** means relying on food provided by nature through the gathering of plants and small animals, birds, and insects; scavenging animals killed by other predators; and hunting.
+- Our verbal and non-verbal communication skills aided collective learning in improving processes (may have lead to development of agriculture
+_ THe use of fire, beginning a distinguishing feature of *Homo Sapiens* and cooking with it provided nutrition, look less energy to chew, allowed for smaller intestines, and thus helped brain development. Eating around a fire probably helped communication, empathy, and collective learning, to develop.
+- Probably scavenged at first, but used weapons etc. to get better and endure longer
+- Development of social order through hunter-gatherer societies which lead to civilisations
+
+
 ## Key Terms
 
-- **Complexity** - the quality or condition of something that has diverse ingredients in precise arrangement one after the other, to create new emergent properties that weren't there before.
-- **Simplicity** - the quality or condition of how easily understood and uncomplicated something is.
-- **Collective learning** - Unlike other mammals humans are able to perform collective learning, a process where when knowledge and information is passed down through generations and improved, tinkered with and perfected to make it better. An example of collective learning are the tools are ancestors used like an axe, they improved on it so it could benefit them more.
+- **Complexity**: the quality or condition of something that has diverse ingredients in precise arrangement one after the other, to create new emergent properties that weren't there before.
+- **Simplicity**: the quality or condition of how easily understood and uncomplicated something is.
+- **Collective learning**: Unlike other mammals humans are able to perform collective learning, a process where when knowledge and information is passed down through generations and improved, tinkered with and perfected to make it better. An example of collective learning are the tools are ancestors used like an axe, they improved on it so it could benefit them more.
 - **Foraging**: Once people could communicate with each other it meant they could share ideas and knowledge to create new things like tools for example. From 200,000-11,000 years ago people used a form of finding resources and food called 'Foraging' which solely relied on hunting and gathering food from nature to survive. The methods used for hunting animals are for example chasing them, though humans could not run faster, they could run for longer so they used this to their advantage until they became more sedentary when agriculture developed.
 - **Civilisations**: A civilisation is a complex society, characterised by urban development, social stratification and symbolic communication (i.e. writing).
+- **Foraging**: relying on food provided by nature through the gathering
+of plants and small animals, birds, and insects; scavenging animals killed by
+other predators; and hunting. 
 
 ## Acknowledgements
 
